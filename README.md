@@ -1,4 +1,4 @@
-# Doctorpece
+# DrPC
 
 Doctorpece es una aplicación web para ofrecer servicios de reparación de computadores a domicilio, con agendamiento vía WhatsApp.
 
@@ -18,4 +18,4 @@ Doctorpece es una aplicación web para ofrecer servicios de reparación de compu
 3. Abre un Pull Request
 
 ---
-Desarrollado con ❤️ por [TuNombre]
+Desarrollado con ❤️ por [laloaggro]
